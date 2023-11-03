@@ -1,0 +1,26 @@
+{
+    "Ehouarn-Duriaux": {
+        "name": "Ehouarn",
+        "lastname": "Duriaux",
+        "type": "local",
+        "modified": "03/11/2023",
+        "note" : {
+            "math" : [
+                5.5
+            ],
+            "histoire" : [
+                5,
+                5
+            ],
+            "Economie et droit" : [
+                5
+            ],
+            "Anglais" : [
+                4
+            ],
+            "Allemand" : [
+                5
+            ]
+        }
+    }
+}
