@@ -2,7 +2,7 @@
     "Ehouarn-Duriaux": {
         "name": "Ehouarn",
         "lastname": "Duriaux",
-        "type": "local",
+        "type": "github",
         "modified": "03/11/2023",
         "note" : {
             "math" : [
