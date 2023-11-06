@@ -1,26 +1,185 @@
 {
-    "Ehouarn-Duriaux": {
+    "Ehouarn.Duriaux": {
         "name": "Ehouarn",
         "lastname": "Duriaux",
-        "type": "github",
-        "modified": "03/11/2023",
-        "note" : {
-            "math" : [
-                5.5
+        "type": "local",
+        "modified": "06/11/2023",
+        "page": [
+            "matu",
+            "cours",
+            "CIE"
+        ],
+        "matu": [
+            [
+                "Semetre 1",
+                [
+                    "Math",
+                    4,
+                    3.5
+                ],
+                [
+                    "histoire",
+                    6,
+                    5.5
+                ],
+                [
+                    "Economie et droit",
+                    3,
+                    4,
+                    2,
+                    4,
+                    2.5
+                ],
+                [
+                    "Anglais",
+                    4.5,
+                    4
+                ],
+                [
+                    "Allemand",
+                    3.5
+                ],
+                [
+                    "546746u",
+                    3.5
+                ]
             ],
-            "histoire" : [
-                5,
-                5
-            ],
-            "Economie et droit" : [
-                5
-            ],
-            "Anglais" : [
-                4
-            ],
-            "Allemand" : [
-                5
+            [
+                "Semetre 2",
+                [
+                    "Math",
+                    4,
+                    3.5
+                ],
+                [
+                    "histoire",
+                    6,
+                    5.5
+                ],
+                [
+                    "Economie et droit",
+                    3,
+                    4,
+                    2
+                ],
+                [
+                    "Anglais",
+                    4.5,
+                    4
+                ]
             ]
-        }
+        ],
+        "cours": [
+            [
+                "Semetre 1",
+                [
+                    "Math",
+                    4,
+                    3.5
+                ],
+                [
+                    "histoire",
+                    6,
+                    5.5
+                ],
+                [
+                    "Economie et droit",
+                    3,
+                    4,
+                    2,
+                    4,
+                    2.5
+                ],
+                [
+                    "Anglais",
+                    4.5,
+                    4
+                ],
+                [
+                    "Allemand",
+                    3.5
+                ]
+            ],
+            [
+                "Semetre 2",
+                [
+                    "Math",
+                    4,
+                    3.5
+                ],
+                [
+                    "histoire",
+                    6,
+                    5.5
+                ],
+                [
+                    "Economie et droit",
+                    3,
+                    4,
+                    2
+                ],
+                [
+                    "Anglais",
+                    4.5,
+                    4
+                ]
+            ]
+        ],
+        "CIE": [
+            [
+                "Semetre 1",
+                [
+                    "Math",
+                    4,
+                    3.5
+                ],
+                [
+                    "histoire",
+                    6,
+                    5.5
+                ],
+                [
+                    "Economie et droit",
+                    3,
+                    4,
+                    2,
+                    4,
+                    2.5
+                ],
+                [
+                    "Anglais",
+                    4.5,
+                    4
+                ],
+                [
+                    "Allemand",
+                    3.5
+                ]
+            ],
+            [
+                "Semetre 2",
+                [
+                    "Math",
+                    4,
+                    3.5
+                ],
+                [
+                    "histoire",
+                    6,
+                    5.5
+                ],
+                [
+                    "Economie et droit",
+                    3,
+                    4,
+                    2
+                ],
+                [
+                    "Anglais",
+                    4.5,
+                    4
+                ]
+            ]
+        ]
     }
 }
