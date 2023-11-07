@@ -11,13 +11,13 @@
         ],
         "matu": [
             [
-                "Semetre 1",
+                "Semestre 1",
                 [
                     "Math",
                     5.5
                 ],
                 [
-                    "histoire",
+                    "Histoire",
                     5.5,
                     5.5
                 ],
@@ -37,14 +37,14 @@
         ],
         "cours": [
             [
-                "Semetre 1",
+                "Semestre 1",
                 [
                     "Math",
                     4,
                     3.5
                 ],
                 [
-                    "histoire",
+                    "Histoire",
                     6,
                     5.5
                 ],
@@ -67,14 +67,14 @@
                 ]
             ],
             [
-                "Semetre 2",
+                "Semestre 2",
                 [
                     "Math",
                     4,
                     3.5
                 ],
                 [
-                    "histoire",
+                    "Histoire",
                     6,
                     5.5
                 ],
@@ -93,14 +93,14 @@
         ],
         "CIE": [
             [
-                "Semetre 1",
+                "Semestre 1",
                 [
                     "Math",
                     4,
                     3.5
                 ],
                 [
-                    "histoire",
+                    "Histoire",
                     6,
                     5.5
                 ],
@@ -123,14 +123,14 @@
                 ]
             ],
             [
-                "Semetre 2",
+                "Semestre 2",
                 [
                     "Math",
                     4,
                     3.5
                 ],
                 [
-                    "histoire",
+                    "Histoire",
                     6,
                     5.5
                 ],
@@ -159,13 +159,13 @@
         ],
         "matu": [
             [
-                "Semetre 1",
+                "Semestre 1",
                 [
                     "Math",
                     5.5
                 ],
                 [
-                    "histoire",
+                    "Histoire",
                     5.5,
                     5.5
                 ],
@@ -185,14 +185,14 @@
         ],
         "CIE": [
             [
-                "Semetre 1",
+                "Semestre 1",
                 [
                     "Math",
                     4,
                     3.5
                 ],
                 [
-                    "histoire",
+                    "Histoire",
                     6,
                     5.5
                 ],
@@ -215,14 +215,14 @@
                 ]
             ],
             [
-                "Semetre 2",
+                "Semestre 2",
                 [
                     "Math",
                     4,
                     3.5
                 ],
                 [
-                    "histoire",
+                    "Histoire",
                     6,
                     5.5
                 ],
