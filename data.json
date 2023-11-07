@@ -155,7 +155,6 @@
         "modified": "06/11/2023",
         "page": [
             "matu",
-            "cours",
             "CIE"
         ],
         "matu": [
@@ -181,62 +180,6 @@
                 [
                     "Allemand",
                     5
-                ]
-            ]
-        ],
-        "cours": [
-            [
-                "Semetre 1",
-                [
-                    "Math",
-                    4,
-                    3.5
-                ],
-                [
-                    "histoire",
-                    6,
-                    5.5
-                ],
-                [
-                    "Economie et droit",
-                    3,
-                    4,
-                    2,
-                    4,
-                    2.5
-                ],
-                [
-                    "Anglais",
-                    4.5,
-                    4
-                ],
-                [
-                    "Allemand",
-                    3.5
-                ]
-            ],
-            [
-                "Semetre 2",
-                [
-                    "Math",
-                    4,
-                    3.5
-                ],
-                [
-                    "histoire",
-                    6,
-                    5.5
-                ],
-                [
-                    "Economie et droit",
-                    3,
-                    4,
-                    2
-                ],
-                [
-                    "Anglais",
-                    4.5,
-                    4
                 ]
             ]
         ],
